@@ -1,2 +1,2 @@
-# -T-JSP-
-JSP Files, ojdbc6.jar ect. 
+# 환영합니다.
+Welcome!
